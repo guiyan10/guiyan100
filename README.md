@@ -1,4 +1,4 @@
-# guiyan100<h2 align="left">Olá,  eu sou Guilherme Yan, Programador full stack 💻🖥</h2>
+<h2 align="left">📍Olá,  eu sou Guilherme Yan, Programador Full Stack 💻📍</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Sou um jovem apaixonado por desenvolver sistemas, possuo habilidades em diferentes linguagens, e disposição para aprender ainda mais! 😉</p>
+<p align="left">📍 Sou um jovem apaixonado por desenvolver sistemas, possuo habilidades em diferentes linguagens, e disposição para aprender ainda mais! 😉</p>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h4 align="left">o que eu faço❓❓<br>- Desenvolvimento web e mobile (PHP, React Native, JavaScript, python).<br><br>- Experiência com frameworks como Laravel.<br><br>- Banco de dados (SQL) e mapeamento de processos.<br>Experiência em metodologias ágeis, como Scrum.</h4>
+<h4 align="left">📌Principais Atividades:<br>- Desenvolvimento web e mobile (PHP, React Native, JavaScript, python).<br><br>- Experiência com frameworks como Laravel.<br><br>- Banco de dados (SQL) e mapeamento de processos.<br>Experiência em metodologias ágeis, como Scrum.</h4>
 
 ###
 
@@ -77,16 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guiyan10/guiyan10/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">🎓Formação e Experiência 🎓:<br>Formação técnica em Desenvolvimento de Sistemas pelo SENAI.<br>Experiência liderando equipes e projetos, como no Vann.<br>Participação em eventos como Dev Experience e Senai para o Mundo.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=guiyan10" alt="Layout with last medium posts"  />
-</div>
 
 ###
